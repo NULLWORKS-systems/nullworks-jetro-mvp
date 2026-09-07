@@ -1,2 +1,6 @@
-# nullworks-jetro-mvp
-Public NULLWORKS / JETRO MVP demonstration site
+# NULLWORKS / JETRO MVP
+
+Public demonstration site.
+
+- Test: /
+- Architecture: /architecture
