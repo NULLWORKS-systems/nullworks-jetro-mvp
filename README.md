@@ -1,6 +1,6 @@
 # NULLWORKS / JETRO MVP
 
-Public demonstration site.
+Public demonstration site. Share these production URLs:
 
-- Test: /
-- Architecture: /architecture
+- Test: https://nullworks-jetro.vercel.app/
+- Architecture: https://nullworks-jetro.vercel.app/architecture
